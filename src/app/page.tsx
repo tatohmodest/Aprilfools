@@ -38,9 +38,10 @@ const AprilFoolsDesign = () => {
           <div className="flex items-center justify-center my-6">
             <Sparkles className="h-8 w-8 text-purple-500 mr-2" />
             <h2 className="text-3xl font-bold text-center text-gray-800">
+              <p>From</p>
               Modest Wilton 
               
-              <p className='text-red-600 block'>(What you get when you buddy is a programmer)</p>
+              <p className='text-red-600 block text-xs'>(What you get when you buddy is a programmer)</p>
               "i got you Good"
               Happy new month 
             </h2>
